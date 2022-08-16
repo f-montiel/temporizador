@@ -1,0 +1,25 @@
+@media all and (min-width: 992px) {
+    .temporizador {
+        font-size: 150px;
+    }
+}
+@media all and (max-width: 991px) and (min-width: 768px){
+    .temporizador {
+        font-size: 120px;
+    }
+}
+@media all and (max-width: 777px) and (min-width: 576px){
+    .temporizador {
+        font-size: 100px;
+    }
+}
+@media all and (max-width: 575px) and (min-width: 262px){
+    .temporizador {
+        font-size: 50px;
+    }
+}
+@media all and (max-width: 261px) {
+    .temporizador {
+        font-size: 25px;
+    }
+}
